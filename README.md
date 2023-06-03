@@ -1,4 +1,4 @@
-# Getting started
+# Getting started with [woke 3.4.2](https://github.com/Ackee-Blockchain/woke)
 
 1. Setup python environment with Python 3.7 and above
 
