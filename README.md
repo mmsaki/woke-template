@@ -8,6 +8,12 @@
    pip install woke
    ```
 
+1. Create Counter contract in `contracts/`
+
+1. Create deploy scripts in `scripts/`
+
+## Local deployment with anvil
+
 1. Setup configuration in `woke.toml`
 
    ```zsh
@@ -15,12 +21,6 @@
    [testing]
    cmd = "anvil"
    ```
-
-1. Create Counter contract in `contracts/`
-
-1. Create deploy scripts in `scripts/`
-
-## Local deployment with anvil
 
 1. Run anvil in terminal as our node
 
