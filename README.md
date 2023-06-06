@@ -68,10 +68,10 @@
 
 # Importing library
 
-You can use `npm install` to import `@openzeppelin/contracts` or `@uniswap/v3-core` etc.
+You can use `npm install` to add `@openzeppelin/contracts` or `@uniswap/v3-core` etc.
 
 ```zsh
 pnpm i @openzeppelin/contracts @uniswap/v3-core
 ```
 
-Add contract in `contracts/Imports.sol`
+Add/import contract in `contracts/Imports.sol`
