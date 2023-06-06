@@ -5,7 +5,7 @@
    ```zsh
    python -m venv venv
    source ./venv/bin/activate
-   pip install woke
+   pip install woke numpy pandas scipy
    ```
 
 1. Create Counter contract in `contracts/`
