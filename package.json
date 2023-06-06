@@ -1,0 +1,21 @@
+{
+	"name": "woke-template",
+	"version": "0.0.1",
+	"description": "woke template for auditing",
+	"main": "index.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"smart contract auditing"
+	],
+	"author": "meek msaki",
+	"license": "MIT",
+	"dependencies": {
+		"@openzeppelin/contracts": "^4.9.0",
+		"@uniswap/v3-core": "^1.0.1"
+	}
+}

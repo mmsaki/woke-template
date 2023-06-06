@@ -1,0 +1,20 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  '@openzeppelin/contracts':
+    specifier: ^4.9.0
+    version: 4.9.0
+  '@uniswap/v3-core':
+    specifier: ^1.0.1
+    version: 1.0.1
+
+packages:
+
+  /@openzeppelin/contracts@4.9.0:
+    resolution: {integrity: sha512-DUP74AFGKlic2sQb/CmgrN2aUPMFGxRrmCTUxLHsiU2RzwWqVuMPZBxiAyvlff6Pea77uylAX6B5x9W6evEbhA==}
+    dev: false
+
+  /@uniswap/v3-core@1.0.1:
+    resolution: {integrity: sha512-7pVk4hEm00j9tc71Y9+ssYpO6ytkeI0y7WE9P6UcmNzhxPePwyAxImuhVsTqWK9YFvzgtvzJHi64pBl4jUzKMQ==}
+    engines: {node: '>=10'}
+    dev: false
